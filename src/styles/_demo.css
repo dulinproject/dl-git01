@@ -1,6 +1,9 @@
 body {
   background-image: url('../images/bg.jpg');
+  margin:0;
+  padding:0;
 }
 body h1 {
   color: red;
+  margin:0;
 }
